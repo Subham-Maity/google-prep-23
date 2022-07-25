@@ -1,0 +1,23 @@
+$ ls
+algorithm.class algorithm.java program.class program.java
+$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+(use "git add ..." to include in what will be committed)
+
+algorithm.class
+algorithm.java
+program.class
+program.java
+
+<--------------------------------------- hided or excluded directories --------------------------------->
+.class/
+.out/
+.vscode
+.cph
+.idea
+
+
